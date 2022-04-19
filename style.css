@@ -10,7 +10,9 @@ h1{
 .jumbotron{
   background: #fff;
   border: 2px solid #edf;
-  width: 50%;
+  width: 70%;
+  
+  height: 40rem;
   margin: auto;
 }
 #decrement{

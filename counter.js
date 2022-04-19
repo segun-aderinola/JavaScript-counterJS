@@ -36,7 +36,7 @@ function count(value, action){
 function animatePress(xx){
   console.log(xx);
   $('#'+xx).addClass('pressed');
-  
+
     // setTimeout(function(){
     //   $('#'+xx).removeClass('pressed');
     // }, 100)
