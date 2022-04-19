@@ -1,0 +1,49 @@
+h1{
+  /* font-size:; */
+  font-weight:bold;
+  text-align: center;
+}
+
+.count:hover{
+  cursor: pointer;
+}
+.jumbotron{
+  background: #fff;
+  border: 2px solid #edf;
+  width: 50%;
+  margin: auto;
+}
+#decrement{
+  font-size: 7rem;
+  border: 2px solid #edf;
+  text-align: center;
+  font-weight: bold;
+  background-color: #009999;
+  border:none;
+  color: #fff;
+}
+#increment{
+  font-size: 7rem;
+  border: 2px solid #edf;
+  text-align: center;
+font-weight: bold;
+  background-color: #009999;
+  border:none;
+  color: #fff;
+}
+input{
+  /* border: none; */
+  font-size: 5rem;
+  font-weight: bold;
+  height: 10rem;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  background: #ffa64d;
+  border: none;
+}
+
+.pressed{
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
